@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quanlytruong/static/css/main.a8a528e6.chunk.css",
+    "main.js": "/quanlytruong/static/js/main.45dc85fb.chunk.js",
+    "main.js.map": "/quanlytruong/static/js/main.45dc85fb.chunk.js.map",
+    "runtime-main.js": "/quanlytruong/static/js/runtime-main.6f8bbf85.js",
+    "runtime-main.js.map": "/quanlytruong/static/js/runtime-main.6f8bbf85.js.map",
+    "static/js/2.28d8c3b6.chunk.js": "/quanlytruong/static/js/2.28d8c3b6.chunk.js",
+    "static/js/2.28d8c3b6.chunk.js.map": "/quanlytruong/static/js/2.28d8c3b6.chunk.js.map",
+    "index.html": "/quanlytruong/index.html",
+    "precache-manifest.ba80170808f835e41aa84c3447544947.js": "/quanlytruong/precache-manifest.ba80170808f835e41aa84c3447544947.js",
+    "service-worker.js": "/quanlytruong/service-worker.js",
+    "static/css/main.a8a528e6.chunk.css.map": "/quanlytruong/static/css/main.a8a528e6.chunk.css.map",
+    "static/js/2.28d8c3b6.chunk.js.LICENSE.txt": "/quanlytruong/static/js/2.28d8c3b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f8bbf85.js",
+    "static/js/2.28d8c3b6.chunk.js",
+    "static/css/main.a8a528e6.chunk.css",
+    "static/js/main.45dc85fb.chunk.js"
+  ]
+}
